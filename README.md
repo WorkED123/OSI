@@ -55,7 +55,24 @@
 
 </ul>
 
-
+<h2>NICE Framework KSAs</h2>
+<ul>
+<li>K0001 - Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
+<br>
+<li>K0010 - Knowledge of communication methods, principles, and ideas that support the network infrastructure.</li>
+<br>
+<li>K0011 - Knowledge of capabilities and applications of network equipmentK0029	Knowledge of the organization's Local and Wide Area Network connections.</li>
+<br>
+<li>K0034 - Knowledge of network services and protocol interactions that provide network communications.</li>
+<br>
+<li>K0057 - Knowledge of network hardware devices and functions.</li>
+<br>
+<li>K0061 - Knowledge of how traffic flows across the network</li>
+<br>
+<li>K0111 - Knowledge of network tools</li>
+<br>
+<li>K0113 - Knowledge of different types of network communication</li>
+</ul>
 
 
 <h2>Lesson Prerequisites</h2>

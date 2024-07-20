@@ -57,21 +57,21 @@
 
 <h2>NICE Framework KSAs</h2>
 <ul>
-<li>K0001 - Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
+<li>K0001: Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
 <br>
-<li>K0010 - Knowledge of communication methods, principles, and ideas that support the network infrastructure.</li>
+<li>K0010: Knowledge of communication methods, principles, and ideas that support the network infrastructure.</li>
 <br>
-<li>K0011 - Knowledge of capabilities and applications of network equipmentK0029	Knowledge of the organization's Local and Wide Area Network connections.</li>
+<li>K0011: Knowledge of capabilities and applications of network equipmentK0029	Knowledge of the organization's Local and Wide Area Network connections.</li>
 <br>
-<li>K0034 - Knowledge of network services and protocol interactions that provide network communications.</li>
+<li>K0034: Knowledge of network services and protocol interactions that provide network communications.</li>
 <br>
-<li>K0057 - Knowledge of network hardware devices and functions.</li>
+<li>K0057: Knowledge of network hardware devices and functions.</li>
 <br>
-<li>K0061 - Knowledge of how traffic flows across the network</li>
+<li>K0061: Knowledge of how traffic flows across the network</li>
 <br>
-<li>K0111 - Knowledge of network tools</li>
+<li>K0111: Knowledge of network tools</li>
 <br>
-<li>K0113 - Knowledge of different types of network communication</li>
+<li>K0113: Knowledge of different types of network communication</li>
 </ul>
 
 
@@ -192,6 +192,35 @@ While we have more modern systems and architectures, understanding the OSI Model
 
 While the OSI Model is a theoretical framework, its layers provide a foundation for many daily networking protocols and technologies. Understanding the real-world applications of each layer is essential for anyone looking to delve deeper into network administration, cybersecurity, and IT in general.
 
+<h2>Definitions</h2>
+<uL>
+<li><b>OSI Model:</b> A conceptual framework used to understand and implement network communication in seven distinct layers, each serving a specific function.<br>
+<br>
+
+<li><b>Encapsulation:</b>  The process of enclosing data with protocol information before network transmission.<br>
+<br>
+
+<li><b>Packets:</b>  Small units of data formatted for transmission across a network.<br>
+<br>
+
+<li><b>Abstraction:</b>  A concept in computing that hides the complex implementation details and exposes only the necessary features.<br>
+<br>
+
+<li><b>TCP (Transmission Control Protocol):</b>  A core protocol of the Internet Protocol Suite that provides reliable, ordered, and error-checked delivery of data between applications.<br>
+<br>
+
+<li><b>UDP (User Datagram Protocol):</b>  A communication protocol used across the Internet that offers a faster, but less reliable, transmission service compared to TCP.<br>
+<br>
+
+<li><b>Segment:</b>  A portion of data that is divided into smaller pieces for transmission and reassembled at the destination.<br>
+<br>
+
+<li><b>Frame:</b>  A data unit used in the Data Link layer of the OSI model, consisting of a packet with a header and a trailer for error checking.<br>
+<br>
+
+<li><b>Header:</b>  The part of a data packet or frame that contains control information, such as source and destination addresses.
+</uL>
+
 
 
 <h2> Presentation</h2>
@@ -202,6 +231,7 @@ While the OSI Model is a theoretical framework, its layers provide a foundation 
 
 <a href = "https://www.educaplay.com/learning-resources/1576783-osi_layers.html"> Play OSI Layers Matching Game </a> - Matching OSI Terms to the correct layer.
 
+<h2> Games</h2>
 <h2> Additional Resources</h2>
 
 <a href="https://www.guru99.com/layers-of-osi-model.html"> Layers of OSI Model Explained </a> - Brief overview of the OSI Model.<br>
